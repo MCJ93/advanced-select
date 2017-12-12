@@ -1,3 +1,3 @@
-import select from "select";
+const select = require("select");
 
 select.test()
