@@ -1,5 +1,3 @@
-"use strict"
-
-import select from select;
+import select from "select";
 
 select.test();
