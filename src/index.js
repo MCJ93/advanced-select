@@ -1,3 +1,3 @@
 import select from "select";
 
-select.test();
+select.test()
