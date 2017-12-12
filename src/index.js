@@ -1,1 +1,5 @@
-console.log("test");
+"use strict"
+
+import select from select;
+
+select.test();
